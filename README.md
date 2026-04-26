@@ -70,3 +70,40 @@ After 2021, the number of foreign players dropped sharply in 2022–2023, which 
 
 However, the number increased again in 2024, so the decline in foreign players alone cannot fully explain the long-term performance drop.
 
+
+### Average Squad Age
+
+![Average Squad Age Line Chart](squad_age_line.png)
+
+![Average Squad Age Bar Chart](squad_age_bar.png)
+
+These charts show changes in the average age of key Ukrainian clubs over time.
+
+The analysis indicates that some clubs became younger after 2022, which may suggest a loss of experienced players and squad instability.
+
+This partially supports the hypothesis that reduced squad experience could have affected performance in European competitions.
+
+
+## Key Insights
+
+- The number of foreign players decreased sharply after 2021, especially in 2022–2023.
+- This supports the idea that the war affected squad composition.
+- However, foreign player decline alone does not fully explain weaker European performance, because similar levels existed in earlier years.
+- Some Ukrainian clubs became younger after 2022, which may indicate a loss of experienced players.
+- The decline in performance is likely connected to several factors at once, including squad instability, player departures, and reduced experience.
+
+
+## Conclusion
+
+The analysis shows that the war had a significant impact on Ukrainian football clubs, particularly in terms of squad composition.
+
+While the number of foreign players decreased after 2022, this factor alone does not fully explain the decline in European performance.
+
+A more important factor appears to be the loss of experienced players and overall squad instability.
+
+Overall, the decline in performance is likely caused by a combination of multiple factors rather than a single reason.
+
+
+
+
+
