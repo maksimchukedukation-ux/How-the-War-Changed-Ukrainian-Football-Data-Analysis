@@ -56,3 +56,17 @@ Before the analysis, the dataset was preprocessed to ensure data quality:
 - Filtered relevant data for Ukrainian clubs
 
 These steps ensured that the analysis is based on consistent and reliable data.
+
+
+## Analysis & Visualizations
+
+### Foreign Players Trend
+
+![Foreign Players Trend](foreign_players.png)
+
+This chart shows the number of foreign players in Ukrainian clubs by year.
+
+After 2021, the number of foreign players dropped sharply in 2022–2023, which supports the hypothesis that the war affected squad composition.
+
+However, the number increased again in 2024, so the decline in foreign players alone cannot fully explain the long-term performance drop.
+
